@@ -7,5 +7,5 @@ package test
 import "C"
 
 import (
-	_ "github.com/heeus/AlexeyWhite/testCpp/packaged/include"
+	_ "github.com/AlexeyWhite/testCpp/packaged/include"
 )
