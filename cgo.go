@@ -1,9 +1,7 @@
 // hi
 package test
 
-// #cgo CFLAGS: -I${SRCDIR}/packaged/include
-// #cgo LDFLAGS: -ltesta
-// #include <my.h>
+// #cgo CFLAGS: -I$C:/Users/ias.IASW7/go/src/github.com/AlexeyWhite/testCpp/packaged
 import "C"
 
 import (

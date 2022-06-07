@@ -1,3 +1,3 @@
-module github.com/untillpro/testme
+module github.com/AlexeyWhite/testCpp
 
 go 1.17

@@ -1,7 +1,7 @@
 //
 package test
 
-// #include <my.h>
+// #include <wasmer.h>
 import "C"
 
 func sum() {
@@ -9,5 +9,6 @@ func sum() {
 }
 
 func helloC() (res int) {
-	return C.C_CONST
+	//v := C.C_CONST
+	return 55
 }
